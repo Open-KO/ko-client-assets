@@ -1,0 +1,9 @@
+[Server]
+Count=1
+IP0=127.0.0.1
+
+[Version]
+Files=1299
+
+[Join]
+Registration site=https://github.com/Open-KO/KnightOnline
